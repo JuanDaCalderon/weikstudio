@@ -44,3 +44,6 @@ body {
   }
 }
 /* END SOBREESCRIBIMOS EL ANCHO DEL CONTENEDOR */
+.btn-color {
+  color: var(--main-white-color) !important;
+}
